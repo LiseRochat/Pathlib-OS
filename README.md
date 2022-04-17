@@ -19,7 +19,7 @@
 ***
 
 ### General Info
-Develop a simple form of connection and registration with PHP and Wamp Server </br>
+Develop a simple form to enter a to do list </br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
