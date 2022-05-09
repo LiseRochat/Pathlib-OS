@@ -2,6 +2,7 @@
 
 # 1. Ouvrir le fichier name.txt et lire sont contenu 
 import os
+from pprint import pprint
 
 CUR_DIR = os.path.dirname(__file__)
 LISTE_PATH = os.path.join(CUR_DIR,"name.txt")
@@ -9,7 +10,7 @@ LISTE_PATH = os.path.join(CUR_DIR,"name.txt")
 if os.path.exists(LISTE_PATH):
     with open(LISTE_PATH, "r") as file:
         lists = file.read().splitlines()
-    print(lists)
+    pprint(lists)
 else:
     print("Le fichier n'existe pas !")
 # 2. Récuperer chaque prénom séparément dans une liste
