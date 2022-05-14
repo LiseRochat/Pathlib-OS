@@ -19,7 +19,8 @@
 ***
 
 ### General Info
-Develop a simple form to enter a to do list </br>
+First Project : Sort a list of names</br>
+Second Project : File sorter</br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
