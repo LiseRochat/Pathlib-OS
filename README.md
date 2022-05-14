@@ -26,7 +26,7 @@ Develop a simple form to enter a to do list </br>
 
 ### Visual
 Here is an overview of project. </br>
-<img src="assets/img/screenshot01.png" alt="screenshot result">
+<img src="script/screenshot.png" alt="screenshot result">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
