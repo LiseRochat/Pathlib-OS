@@ -1,8 +1,8 @@
 <div id="top"></div>
 
 <div align="center">
-  <h1> To Do List </h1>
-  <p>Make an application like a to do list</p>
+  <h1> Two exercices to practice python with terminal </h1>
+  <p>Organize your data ! :)</p>
 </div>
 
 ***
@@ -32,10 +32,11 @@ Here is an overview of project. </br>
 ***
 
 ### Technologies
-- HTML 5
-- CSS 3
-- sql
-- PHP
+- Python
+- Directory
+- txt file
+- Pathlib
+- Os
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
@@ -44,16 +45,11 @@ Here is an overview of project. </br>
 
 1. Clone the project
 ```
-git clone https://github.com/LiseRochat/To-do-list
+git clone https://github.com/LiseRochat/Pathlib-OS
 ```
 2. Open file with you text editor 
-3. Create a bdd with name **todo** in your phpmyadmin
-4. Import sql file in bdd
-5. Initialize bdd variables 
-6. Run :
- ```
-  localhost/To-do-list
- ```
+3. Run 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
@@ -74,7 +70,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Contact 
 Rochat Lise - liserochat@live.fr </br>
-Project Link: [https://github.com/LiseRochat/To-do-list](https://github.com/LiseRochat/To-do-list)
+Project Link: [https://github.com/LiseRochat/Pathlib-OS](https://github.com/LiseRochat/Pathlib-OS)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 

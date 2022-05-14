@@ -6,7 +6,8 @@ from pprint import pprint
 
 CUR_DIR = os.path.dirname(__file__)
 LISTE_PATH = os.path.join(CUR_DIR,"name.txt")
-
+print(CUR_DIR)
+print(LISTE_PATH)
 if os.path.exists(LISTE_PATH):
     with open(LISTE_PATH, "r") as file:
         lists = file.read().splitlines()
